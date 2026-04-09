@@ -1,0 +1,139 @@
+{
+    "positive": {
+        "operation_overview": {
+            "login": "Login",
+            "caption": "this is test image",
+            "seap_timeframe": "100",
+            "partner_name": "Test Partner Name",
+            "partner_title": "Test Partner Title",
+            "partner_email": "partner@test.com",
+            "partner_phone": "123456789AABB"
+        },
+        "raas": {
+            "prioritized_hazard_and_impact": "Test hazard impact description for risk analysis",
+            "caption": "this is test image"
+        },
+        "early_action_intervention": {
+            "overall_objective_intervention": "Test overall objective for early action intervention",
+            "potential_geographical_high_risk_areas": "Test geographical high risk areas description",
+            "people_targeted": "10000",
+            "assisted_through_operation": "Test description of people assisted through operation",
+            "selection_criteria": "Test selection criteria for targeted population",
+            "trigger_statement": "Test trigger statement for early action",
+            "seap_lead_time": "43",
+            "seap_lead_timeframe_unit": "Months",
+            "operational_timeframe": "12",
+            "trigger_threshold_justification": "Test trigger threshold justification description",
+            "next_step_towards_full_eap": "Test next steps towards developing a full EAP"
+        },
+        "planned_operations": {
+            "sector1": "Shelter, Settlement and Housing",
+            "sector2": "Health and Care",
+            "people_targeted": "12",
+            "budget_per_sector": "12",
+            "ap_code": "12",
+            "indicator_title": "Test indicator title for planned operations sector",
+            "indicator_target": "10",
+            "activity": "Test",
+            "timeframe_unit": "Years",
+            "timeframe_value": "5"
+        },
+        "enabling_approaches": {
+            "approach1": "Secretariat Services",
+            "approach2": "National Society Strengthening",
+            "budget_per_approach": "12000",
+            "ap_code": "152",
+            "indicator_title": "Test indicator title for enabling approaches sector",
+            "indicator_target": "10",
+            "activity": "Test",
+            "timeframe_unit": "Years",
+            "timeframe_value": "5"
+        },
+        "conditions_to_deliver": {
+            "early_action_capability": "Test early action capability description for NS",
+            "rcrc_movement_involvement": "Test RCRC movement involvement description here",
+            "readiness_budget": "3",
+            "pre_positioning_budget": "12",
+            "early_action_budget": "23",
+            "pdf_file": "C:\\Users\\appus\\Downloads\\blank.pdf"
+        }
+    },
+
+    "negative": {
+        "operation_overview": {
+            "login": "Login",
+            "caption": "this is test image",
+            "seap_timeframe": "100",
+            "partner_name": "Test Partner Name",
+            "partner_title": "Test Partner Title",
+            "partner_email": "partner@test.com",
+            "partner_phone": "123456789AABB",
+            "negative_assertions": {
+                "neg_flag": true
+            }
+        },
+        "raas": {
+            "prioritized_hazard_and_impact": "Test hazard impact description for risk analysis",
+            "caption": "this is test image",
+            "negative_assertions": {
+                "neg_flag": true
+            }
+        },
+        "early_action_intervention": {
+            "overall_objective_intervention": "Test overall objective for early action intervention",
+            "potential_geographical_high_risk_areas": "Test geographical high risk areas description",
+            "people_targeted": "10000",
+            "assisted_through_operation": "Test description of people assisted through operation",
+            "selection_criteria": "Test selection criteria for targeted population",
+            "trigger_statement": "Test trigger statement for early action",
+            "seap_lead_time": "43",
+            "seap_lead_timeframe_unit": "Months",
+            "operational_timeframe": "12",
+            "trigger_threshold_justification": "Test trigger threshold justification description",
+            "next_step_towards_full_eap": "Test next steps towards developing a full EAP",
+            "negative_assertions": {
+                "neg_flag": true
+            }
+        },
+        "planned_operations": {
+            "sector1": "Shelter, Settlement and Housing",
+            "sector2": "Health and Care",
+            "people_targeted": "12",
+            "budget_per_sector": "12",
+            "ap_code": "12",
+            "indicator_title": "Test indicator title for planned operations sector",
+            "indicator_target": "10",
+            "activity": "Test",
+            "timeframe_unit": "Years",
+            "timeframe_value": "5",
+            "negative_assertions": {
+                "neg_flag": true
+            }
+        },
+        "enabling_approaches": {
+            "approach1": "Secretariat Services",
+            "approach2": "National Society Strengthening",
+            "budget_per_approach": "12000",
+            "ap_code": "152",
+            "indicator_title": "Test indicator title for enabling approaches sector",
+            "indicator_target": "10",
+            "activity": "Test",
+            "timeframe_unit": "Years",
+            "timeframe_value": "5",
+            "negative_assertions": {
+                "neg_flag": true
+            }
+        },
+        "conditions_to_deliver": {
+            "early_action_capability": "Test early action capability description for NS",
+            "rcrc_movement_involvement": "Test RCRC movement involvement description here",
+            "readiness_budget": "3",
+            "pre_positioning_budget": "12",
+            "early_action_budget": "23",
+            "pdf_file": "C:\\Users\\appus\\Downloads\\blank.pdf",
+            "negative_assertions": {
+                "neg_flag": true
+            }
+        }
+    }
+}
